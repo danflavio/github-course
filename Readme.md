@@ -10,6 +10,3 @@ Saiba mais em [willianjusten.com.br](http://willianjusten.com.br)
 Daniel Flávio
 
 Nova versao.
-
-
-rerererer
